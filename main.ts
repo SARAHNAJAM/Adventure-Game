@@ -1,7 +1,7 @@
+#!/usr/bin/env
 // Number Guessing Game
 
 import inquirer from "inquirer";
-import { right } from "inquirer/lib/utils/readline.js";
 
 
 // computer will generate a random

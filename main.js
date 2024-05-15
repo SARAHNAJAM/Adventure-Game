@@ -1,3 +1,4 @@
+#!/usr/bin/env
 // Number Guessing Game
 import inquirer from "inquirer";
 // computer will generate a random
